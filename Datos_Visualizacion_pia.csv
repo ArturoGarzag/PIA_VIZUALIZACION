@@ -1,0 +1,51 @@
+ID_reseñas,Nombre,Apellidos,Calidad_del_producto,Servicio_al_cliente,Precio_del_producto
+1, Juan,García López,1,2,3
+2,María,Rodríguez Hernández,3,2,2
+3,Pedro,López Martínez,2,2,1
+4,Ana,Martínez González,1,1,3
+5,Luis,González Sánchez,3,1,2
+6, Laura,Hernández Pérez,2,3,2
+7,Carlos,Pérez Romero,3,2,3
+8,Sofía,Sánchez Torres,2,1,2
+9,Daniel,Romero Flores,2,3,3
+10,Valentina,Torres Gómez,3,1,2
+11,Alejandro,Flores Díaz,1,3,3
+12,Camila,Gómez Vargas,2,1,2
+13,José,Díaz Ramos,1,2,1
+14,Martina,Vargas Morales,3,1,2
+15,Manuel,Ramos Ortega,2,3,1
+16,Isabella,Morales Castro,1,1,3
+17,Miguel,Ortega Silva,2,2,1
+18,Valeria,Castro Ruiz,1,3,2
+19,David,Silva Medina,3,2,1
+20,Lucía,Ruiz Paredes,2,1,2
+21,Francisco,Medina Cordero,2,2,1
+22,Gabriela,Paredes Mendoza,1,1,2
+23,Diego,Cordero Valencia,2,2,1
+24,Natalia,Mendoza Morales,3,1,2
+25, Andrés,Valencia Aguilar,2,2,1
+26,Carolina,Morales Castro,1,1,3
+27,Javier,Aguilar Rosales,3,1,2
+28,Andrea,Castro Delgado,1,1,1
+29,Ricardo,Rosales Molina,3,2,3
+30,Alejandra,Delgado Ríos,2,1,2
+31,Gabriel,Molina Salazar,1,3,1
+32,Paula,Ríos Fuentes,2,2,2
+33,Oscar,Salazar Figueroa,3,1,1
+34,Victoria,Fuentes Peña,1,2,3
+35,Sergio,Figueroa Rojas,2,1,3
+36,Elena,Peña Navarro,3,2,2
+37,Eduardo,Rojas Cabrera,2,1,1
+38,Julia,Navarro Guzmán,1,1,3
+39,Raúl,Cabrera Cáceres,2,1,2
+40,Adriana,Guzmán Zamora,1,2,1
+41,Felipe,Cáceres Vargas,3,1,2
+42,Clara,Zamora Tapia,2,3,1
+43,Juan Pablo,Vargas Espinoza,1,1,1
+44,Carmen,Tapia Contreras,3,2,1
+45,Mario,Espinoza Arias,2,1,2
+46,Rosa,Contreras Bravo,1,1,1
+47,Alex,Arias Araya,3,2,1
+48,Patricia,Bravo Peralta,1,1,3
+49,Samuel,Araya Mendoza,2,2,1
+50,Mariana,Peralta Vargas,3,2,2
