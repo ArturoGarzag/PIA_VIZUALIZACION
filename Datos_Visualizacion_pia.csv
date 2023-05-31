@@ -1,0 +1,51 @@
+ID_reseñas,ID_producto,Nombre,Apellidos,Nombre del producto,Calidad_del_producto,Servicio_al_cliente,Precio_del_producto
+1,Tablet1, Juan,García López,SketchMaster Tablet,1,2,3
+2,Tablet2,María,Rodríguez Hernández,SketchMaster Tablet,3,2,2
+3,Tablet3,Pedro,López Martínez,SketchMaster Tablet,2,2,1
+4,Tablet4,Ana,Martínez González,SketchMaster Tablet,1,1,3
+5,Tablet5,Luis,González Sánchez,SketchMaster Tablet,3,1,2
+6,Tablet6, Laura,Hernández Pérez,SketchMaster Tablet,2,3,2
+7,Tablet7,Carlos,Pérez Romero,SketchMaster Tablet,3,2,3
+8,Tablet8,Sofía,Sánchez Torres,SketchMaster Tablet,2,1,2
+9,Tablet9,Daniel,Romero Flores,SketchMaster Tablet,2,3,3
+10,Tablet10,Valentina,Torres Gómez,SketchMaster Tablet,3,1,2
+11,Tablet11,Alejandro,Flores Díaz,SketchMaster Tablet,1,3,3
+12,Tablet12,Camila,Gómez Vargas,SketchMaster Tablet,2,1,2
+13,Tablet13,José,Díaz Ramos,SketchMaster Tablet,1,2,1
+14,Tablet14,Martina,Vargas Morales,SketchMaster Tablet,3,1,2
+15,Tablet15,Manuel,Ramos Ortega,SketchMaster Tablet,2,3,1
+16,Tablet16,Isabella,Morales Castro,SketchMaster Tablet,1,1,3
+17,Tablet17,Miguel,Ortega Silva,SketchMaster Tablet,2,2,1
+18,Tablet18,Valeria,Castro Ruiz,SketchMaster Tablet,1,3,2
+19,Tablet19,David,Silva Medina,SketchMaster Tablet,3,2,1
+20,Tablet20,Lucía,Ruiz Paredes,SketchMaster Tablet,2,1,2
+21,Tablet21,Francisco,Medina Cordero,SketchMaster Tablet,2,2,1
+22,Tablet22,Gabriela,Paredes Mendoza,SketchMaster Tablet,1,1,2
+23,Tablet23,Diego,Cordero Valencia,SketchMaster Tablet,2,2,1
+24,Tablet24,Natalia,Mendoza Morales,SketchMaster Tablet,3,1,2
+25,Tablet25, Andrés,Valencia Aguilar,SketchMaster Tablet,2,2,1
+26,Tablet26,Carolina,Morales Castro,SketchMaster Tablet,1,1,3
+27,Tablet27,Javier,Aguilar Rosales,SketchMaster Tablet,3,1,2
+28,Tablet28,Andrea,Castro Delgado,SketchMaster Tablet,1,1,1
+29,Tablet29,Ricardo,Rosales Molina,SketchMaster Tablet,3,2,3
+30,Tablet30,Alejandra,Delgado Ríos,SketchMaster Tablet,2,1,2
+31,Tablet31,Gabriel,Molina Salazar,SketchMaster Tablet,1,3,1
+32,Tablet32,Paula,Ríos Fuentes,SketchMaster Tablet,2,2,2
+33,Tablet33,Oscar,Salazar Figueroa,SketchMaster Tablet,3,1,1
+34,Tablet34,Victoria,Fuentes Peña,SketchMaster Tablet,1,2,3
+35,Tablet35,Sergio,Figueroa Rojas,SketchMaster Tablet,2,1,3
+36,Tablet36,Elena,Peña Navarro,SketchMaster Tablet,3,2,2
+37,Tablet37,Eduardo,Rojas Cabrera,SketchMaster Tablet,2,1,1
+38,Tablet38,Julia,Navarro Guzmán,SketchMaster Tablet,1,1,3
+39,Tablet39,Raúl,Cabrera Cáceres,SketchMaster Tablet,2,1,2
+40,Tablet40,Adriana,Guzmán Zamora,SketchMaster Tablet,1,2,1
+41,Tablet41,Felipe,Cáceres Vargas,SketchMaster Tablet,3,1,2
+42,Tablet42,Clara,Zamora Tapia,SketchMaster Tablet,2,3,1
+43,Tablet43,Juan Pablo,Vargas Espinoza,SketchMaster Tablet,1,1,1
+44,Tablet44,Carmen,Tapia Contreras,SketchMaster Tablet,3,2,1
+45,Tablet45,Mario,Espinoza Arias,SketchMaster Tablet,2,1,2
+46,Tablet46,Rosa,Contreras Bravo,SketchMaster Tablet,1,1,1
+47,Tablet47,Alex,Arias Araya,SketchMaster Tablet,3,2,1
+48,Tablet48,Patricia,Bravo Peralta,SketchMaster Tablet,1,1,3
+49,Tablet49,Samuel,Araya Mendoza,SketchMaster Tablet,2,2,1
+50,Tablet50,Mariana,Peralta Vargas,SketchMaster Tablet,3,2,2
